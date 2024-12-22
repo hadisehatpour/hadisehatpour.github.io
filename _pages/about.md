@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hadi Sehatpour"
+title: "Working Papers"
 author_profile: true
 redirect_from: 
   - /about/
