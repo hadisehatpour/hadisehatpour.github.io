@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "HS_photo.jpg"
   name             : "Hadi Sehatpour"
   pronouns         : # example: "she/her"  
   bio              : "Finance PhD candidate @ UTS"
