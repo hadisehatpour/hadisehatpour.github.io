@@ -6,8 +6,8 @@ author_profile: true
 
 ## Welcome!
 
-I am a PhD candidate (Final year) in Finance at the Department of Finance, University of Technology Sydney (UTS).  
-My primary research area is Quantitative finance with a particular focus on green bonds, financial econometrics and machine learning, and portfolio optimization.
+I am a PhD candidate (Final year) in Finance at the [Department of Finance, University of Technology Sydney (UTS)](https://www.uts.edu.au/about/faculties/business/finance).  
+My primary research area is quantitative finance with a particular focus on green bonds, financial econometrics and machine learning, and portfolio optimization.
 
 ## Working Papers
 
