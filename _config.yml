@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Hadi Sehatpour"
 title_separator          : "-"
 name                     : &name "Hadi Sehatpour"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Hadi Sehatpour"
   pronouns         : # example: "she/her"  
   bio              : "Finance PhD candidate @ UTS"
-  location         : # "Earth"
+  location         : "Sydney, Australia"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : #"none@example.org" 
@@ -59,6 +59,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "mhadisehat"
+  cv               : "/files/CV_Hadi_Sehatpour.pdf"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
